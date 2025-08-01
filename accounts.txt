@@ -1,0 +1,2 @@
+testuser|test@gmail.com|Test User|admin
+dev42|dev@abc.com|Dev Doe|read
